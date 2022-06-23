@@ -1,5 +1,5 @@
 import java.io.*;
-import java.util.Scanner;
+import java.util.Scanner;//for scanner class
 
 public class ComplexClass {
 	public static void main(String[] args) {
